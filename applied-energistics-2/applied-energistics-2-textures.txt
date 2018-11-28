@@ -1,0 +1,10 @@
+# Applied Energistics 2 Block mapping
+# define appliedenergistics2-support: true in configuration.txt to enable
+enabled:appliedenergistics2-support
+
+# Variables - can be altered in configuration.txt
+
+
+
+# Files
+texturefile:id=sky_stone_block,filename=assets/appliedenergistics2/textures/blocks/sky_stone_block.png,xcount=16,ycount=16
